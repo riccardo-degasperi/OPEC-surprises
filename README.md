@@ -1,1 +1,1 @@
-Here you can download the refined high-frequency instruments for oil supply news shocks of Degasperi (2024), spanning 1983:7-2023:6 
+This repository contains time series at monthly and daily frequency of the refined high-frequency instruments for oil supply news shocks and the corresponding informational component used in Degasperi (2024). The instruments span the sample from 1983:7 to 2023:6. 
